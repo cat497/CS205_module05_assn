@@ -1,3 +1,3 @@
-> Dance
-> Party
-> Dance
+- [ ]Dance
+- [ ]Party
+- [x]Dance again
